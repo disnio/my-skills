@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "bf091b91-5e28-42aa-969c-e57d2c2aa4d2",
+  "path": "critique",
+  "path_key": "critique",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

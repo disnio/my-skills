@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "6c7d57bb-85c0-4b61-8888-b87485d73d68",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/skills/jpa-patterns",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/skills/jpa-patterns",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

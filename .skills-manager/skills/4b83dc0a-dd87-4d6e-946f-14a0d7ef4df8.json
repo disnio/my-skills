@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "4b83dc0a-dd87-4d6e-946f-14a0d7ef4df8",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/skills/returns-reverse-logistics",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/skills/returns-reverse-logistics",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

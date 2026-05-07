@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a17b72b8-2b78-4b5c-a6e6-9fedd20a7e6e",
+  "path": "gsd-cleanup",
+  "path_key": "gsd-cleanup",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

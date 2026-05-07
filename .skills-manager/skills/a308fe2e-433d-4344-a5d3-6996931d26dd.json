@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a308fe2e-433d-4344-a5d3-6996931d26dd",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/.kiro/hooks",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/.kiro/hooks",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

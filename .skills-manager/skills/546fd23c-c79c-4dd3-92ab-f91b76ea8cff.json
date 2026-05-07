@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "546fd23c-c79c-4dd3-92ab-f91b76ea8cff",
+  "path": "claude-plugins-official/superpowers/5.0.7/skills/executing-plans",
+  "path_key": "claude-plugins-official/superpowers/5.0.7/skills/executing-plans",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

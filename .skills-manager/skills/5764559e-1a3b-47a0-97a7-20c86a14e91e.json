@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5764559e-1a3b-47a0-97a7-20c86a14e91e",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/skills/exa-search",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/skills/exa-search",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

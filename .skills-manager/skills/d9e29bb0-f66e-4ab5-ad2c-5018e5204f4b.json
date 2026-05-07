@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d9e29bb0-f66e-4ab5-ad2c-5018e5204f4b",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/skills/inventory-demand-planning",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/skills/inventory-demand-planning",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

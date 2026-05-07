@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a4d230ae-04b9-47b3-96d1-bd5f19053420",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/skills/plankton-code-quality",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/skills/plankton-code-quality",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

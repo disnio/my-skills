@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "6a334867-6fa7-44bf-a03c-1281f24d8ad7",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/skills/cost-aware-llm-pipeline",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/skills/cost-aware-llm-pipeline",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ab7f4705-c7b1-4c8a-a1d5-d3634f50713e",
+  "path": "gsd-check-todos",
+  "path_key": "gsd-check-todos",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

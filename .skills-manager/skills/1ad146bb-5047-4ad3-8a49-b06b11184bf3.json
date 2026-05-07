@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1ad146bb-5047-4ad3-8a49-b06b11184bf3",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/skills/django-tdd",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/skills/django-tdd",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

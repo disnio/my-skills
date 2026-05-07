@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "aa723695-5a7f-48d8-930c-8382ba653d46",
+  "path": "claude-plugins-official/vercel/7807a6aabad5/skills/next-forge",
+  "path_key": "claude-plugins-official/vercel/7807a6aabad5/skills/next-forge",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

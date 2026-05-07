@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "6926d123-44ca-46ca-97aa-c0921947f1b9",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/skills/skill-comply",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/skills/skill-comply",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

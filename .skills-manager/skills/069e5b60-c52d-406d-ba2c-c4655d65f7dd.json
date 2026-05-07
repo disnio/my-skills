@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "069e5b60-c52d-406d-ba2c-c4655d65f7dd",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/skills/architecture-decision-records",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/skills/architecture-decision-records",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

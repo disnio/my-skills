@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "62aa3377-787d-4d2c-a55e-4f9849e24c80",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/docs/ko-KR",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/docs/ko-kr",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

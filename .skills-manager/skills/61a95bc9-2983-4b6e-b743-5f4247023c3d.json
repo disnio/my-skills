@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "61a95bc9-2983-4b6e-b743-5f4247023c3d",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/skills/kotlin-exposed-patterns",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/skills/kotlin-exposed-patterns",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

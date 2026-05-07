@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "781f3641-aeb8-412a-84af-113544a21b4b",
+  "path": "claude-plugins-official/superpowers/5.0.7/skills/systematic-debugging",
+  "path_key": "claude-plugins-official/superpowers/5.0.7/skills/systematic-debugging",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

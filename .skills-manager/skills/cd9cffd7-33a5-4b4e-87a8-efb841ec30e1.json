@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "cd9cffd7-33a5-4b4e-87a8-efb841ec30e1",
+  "path": "claude-plugins-official/vercel/7807a6aabad5/skills/knowledge-update",
+  "path_key": "claude-plugins-official/vercel/7807a6aabad5/skills/knowledge-update",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

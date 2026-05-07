@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "97283e48-fb77-4eec-9c95-cfea43196e31",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/.kiro/skills/verification-loop",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/.kiro/skills/verification-loop",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

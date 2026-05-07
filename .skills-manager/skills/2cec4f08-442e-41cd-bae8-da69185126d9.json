@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2cec4f08-442e-41cd-bae8-da69185126d9",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/skills/perl-patterns",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/skills/perl-patterns",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

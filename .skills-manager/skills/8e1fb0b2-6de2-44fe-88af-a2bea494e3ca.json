@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "8e1fb0b2-6de2-44fe-88af-a2bea494e3ca",
+  "path": "claude-plugins-official/vercel/7807a6aabad5/skills/runtime-cache",
+  "path_key": "claude-plugins-official/vercel/7807a6aabad5/skills/runtime-cache",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

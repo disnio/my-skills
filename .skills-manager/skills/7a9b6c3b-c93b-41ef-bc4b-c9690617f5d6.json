@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7a9b6c3b-c93b-41ef-bc4b-c9690617f5d6",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/skills/project-guidelines-example",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/skills/project-guidelines-example",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

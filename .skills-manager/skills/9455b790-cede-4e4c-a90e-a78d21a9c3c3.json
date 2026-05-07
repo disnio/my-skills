@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9455b790-cede-4e4c-a90e-a78d21a9c3c3",
+  "path": "temp_git_1775112144812_lrfo6h/skills/requesting-code-review",
+  "path_key": "temp_git_1775112144812_lrfo6h/skills/requesting-code-review",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

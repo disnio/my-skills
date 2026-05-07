@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "14172b05-b928-46b6-a2a0-ece2675dd7eb",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/.kiro/skills/docker-patterns",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/.kiro/skills/docker-patterns",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

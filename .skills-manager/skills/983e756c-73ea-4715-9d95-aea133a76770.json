@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "983e756c-73ea-4715-9d95-aea133a76770",
+  "path": "claude-plugins-official/superpowers/5.0.7/skills/writing-plans",
+  "path_key": "claude-plugins-official/superpowers/5.0.7/skills/writing-plans",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

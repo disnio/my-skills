@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "36fa29de-ce9e-4ed5-a2ee-bb969c4014ff",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/skills/skill-stocktake",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/skills/skill-stocktake",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

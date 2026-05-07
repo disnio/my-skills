@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "47d72142-636d-4544-9a49-b705ce0794a2",
+  "path": "claude-plugins-official/superpowers/5.0.7/skills/verification-before-completion",
+  "path_key": "claude-plugins-official/superpowers/5.0.7/skills/verification-before-completion",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

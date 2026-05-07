@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ee0f48d3-b08f-4ecf-8d90-68949bdf648e",
+  "path": "gsd-undo",
+  "path_key": "gsd-undo",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

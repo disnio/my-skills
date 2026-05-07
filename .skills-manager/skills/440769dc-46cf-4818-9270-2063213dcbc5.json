@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "440769dc-46cf-4818-9270-2063213dcbc5",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/.codebuddy",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/.codebuddy",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

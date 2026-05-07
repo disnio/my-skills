@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "fe395e61-f443-47cf-8b14-410398bc76cd",
+  "path": "claude-plugins-official/skill-creator/b091cb4179d3/skills/skill-creator",
+  "path_key": "claude-plugins-official/skill-creator/b091cb4179d3/skills/skill-creator",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

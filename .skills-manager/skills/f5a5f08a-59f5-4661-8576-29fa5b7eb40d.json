@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f5a5f08a-59f5-4661-8576-29fa5b7eb40d",
+  "path": "gsd-forensics",
+  "path_key": "gsd-forensics",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

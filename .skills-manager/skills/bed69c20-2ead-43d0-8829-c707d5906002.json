@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "bed69c20-2ead-43d0-8829-c707d5906002",
+  "path": "claude-plugins-official/claude-md-management/1.0.0",
+  "path_key": "claude-plugins-official/claude-md-management/1.0.0",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

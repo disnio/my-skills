@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0444edac-3fff-432d-971c-aa5122fad406",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/skills/content-hash-cache-pattern",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/skills/content-hash-cache-pattern",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

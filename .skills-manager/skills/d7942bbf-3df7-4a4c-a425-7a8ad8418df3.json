@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d7942bbf-3df7-4a4c-a425-7a8ad8418df3",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/skills/continuous-learning-v2",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/skills/continuous-learning-v2",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

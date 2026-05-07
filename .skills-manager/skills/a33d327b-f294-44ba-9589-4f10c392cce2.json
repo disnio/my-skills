@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a33d327b-f294-44ba-9589-4f10c392cce2",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/.kiro/skills/api-design",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/.kiro/skills/api-design",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

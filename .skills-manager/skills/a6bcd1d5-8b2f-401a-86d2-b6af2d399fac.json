@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a6bcd1d5-8b2f-401a-86d2-b6af2d399fac",
+  "path": "gsd-session-report",
+  "path_key": "gsd-session-report",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

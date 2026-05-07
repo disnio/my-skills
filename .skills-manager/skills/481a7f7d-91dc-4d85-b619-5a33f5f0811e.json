@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "481a7f7d-91dc-4d85-b619-5a33f5f0811e",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/skills/laravel-security",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/skills/laravel-security",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

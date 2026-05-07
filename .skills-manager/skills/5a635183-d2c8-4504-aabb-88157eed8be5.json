@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5a635183-d2c8-4504-aabb-88157eed8be5",
+  "path": "gsd-ui-review",
+  "path_key": "gsd-ui-review",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

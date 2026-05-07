@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c6b3f673-418d-4780-b6e3-dac760a04196",
+  "path": "temp_git_1775112144812_lrfo6h/skills/writing-skills",
+  "path_key": "temp_git_1775112144812_lrfo6h/skills/writing-skills",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

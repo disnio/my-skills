@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "bc49b87b-9001-46a3-9fcd-ad7e98ae8786",
+  "path": "claude-plugins-official/vercel/7807a6aabad5/skills/workflow",
+  "path_key": "claude-plugins-official/vercel/7807a6aabad5/skills/workflow",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

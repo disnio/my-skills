@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "71d3b762-0c87-4ddc-9265-ee0d8567cd96",
+  "path": "animate",
+  "path_key": "animate",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "957418d5-c0e6-467c-8d81-6d456a723e3c",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/skills/compose-multiplatform-patterns",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/skills/compose-multiplatform-patterns",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

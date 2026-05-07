@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7bcbccaa-5e47-4647-bfd1-32bf1c68349f",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/skills/quality-nonconformance",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/skills/quality-nonconformance",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

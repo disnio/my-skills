@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e71b39c8-78b1-4201-a19f-21a75d5458bb",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/.agents/skills/verification-loop",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/.agents/skills/verification-loop",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

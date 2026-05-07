@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5d44b987-3e2b-430e-b973-968f9d7d91a2",
+  "path": "gsd-health",
+  "path_key": "gsd-health",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

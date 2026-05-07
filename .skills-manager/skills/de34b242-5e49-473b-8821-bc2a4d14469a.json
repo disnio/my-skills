@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "de34b242-5e49-473b-8821-bc2a4d14469a",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/skills/rust-testing",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/skills/rust-testing",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

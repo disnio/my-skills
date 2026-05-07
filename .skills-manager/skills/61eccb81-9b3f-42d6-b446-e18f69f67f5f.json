@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "61eccb81-9b3f-42d6-b446-e18f69f67f5f",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/skills/codebase-onboarding",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/skills/codebase-onboarding",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

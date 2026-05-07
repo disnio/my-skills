@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d7aa1def-b57c-4019-a8c1-55277d883153",
+  "path": "temp_git_1775112144812_lrfo6h/skills/finishing-a-development-branch",
+  "path_key": "temp_git_1775112144812_lrfo6h/skills/finishing-a-development-branch",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

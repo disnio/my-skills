@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9c3c0cc5-cddf-47b6-9691-e241f326f2fc",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/skills/autonomous-loops",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/skills/autonomous-loops",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

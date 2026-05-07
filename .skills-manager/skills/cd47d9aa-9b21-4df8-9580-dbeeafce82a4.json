@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "cd47d9aa-9b21-4df8-9580-dbeeafce82a4",
+  "path": "claude-plugins-official/vercel/7807a6aabad5/skills/deployments-cicd",
+  "path_key": "claude-plugins-official/vercel/7807a6aabad5/skills/deployments-cicd",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "6ae25bcb-dcda-4702-8717-476f59f541fa",
+  "path": "unocss",
+  "path_key": "unocss",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

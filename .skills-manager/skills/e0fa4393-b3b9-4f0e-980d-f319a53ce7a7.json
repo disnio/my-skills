@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e0fa4393-b3b9-4f0e-980d-f319a53ce7a7",
+  "path": "temp_git_1775112144812_lrfo6h/skills/executing-plans",
+  "path_key": "temp_git_1775112144812_lrfo6h/skills/executing-plans",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

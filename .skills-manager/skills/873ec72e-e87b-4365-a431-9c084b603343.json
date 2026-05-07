@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "873ec72e-e87b-4365-a431-9c084b603343",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/skills/perl-testing",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/skills/perl-testing",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

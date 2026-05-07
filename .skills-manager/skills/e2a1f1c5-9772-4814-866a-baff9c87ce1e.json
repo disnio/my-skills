@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e2a1f1c5-9772-4814-866a-baff9c87ce1e",
+  "path": "claude-plugins-official/superpowers/5.0.7/skills/writing-skills",
+  "path_key": "claude-plugins-official/superpowers/5.0.7/skills/writing-skills",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

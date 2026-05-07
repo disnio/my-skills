@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "50950ff8-4ee7-40d1-a36b-57a3b7ec6acf",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/skills/clickhouse-io",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/skills/clickhouse-io",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

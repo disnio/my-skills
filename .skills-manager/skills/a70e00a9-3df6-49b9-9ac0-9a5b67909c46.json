@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a70e00a9-3df6-49b9-9ac0-9a5b67909c46",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/.agents/skills/coding-standards",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/.agents/skills/coding-standards",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c7cf6678-2689-4768-92d6-bc70f927a30f",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/skills/springboot-security",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/skills/springboot-security",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

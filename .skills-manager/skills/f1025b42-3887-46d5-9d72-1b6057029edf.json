@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f1025b42-3887-46d5-9d72-1b6057029edf",
+  "path": "gsd-analyze-dependencies",
+  "path_key": "gsd-analyze-dependencies",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

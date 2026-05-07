@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3b80294b-28a4-4019-ac33-d2dd58f03e6d",
+  "path": "slidev",
+  "path_key": "slidev",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d8a4e1e2-ff2c-45b5-98e4-c8611b67b6f6",
+  "path": "claude-plugins-official/code-review/unknown",
+  "path_key": "claude-plugins-official/code-review/unknown",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

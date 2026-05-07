@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "90605f55-2a99-4e76-9e6b-d167dcfdbbad",
+  "path": "claude-plugins-official/superpowers/5.0.7/skills/brainstorming",
+  "path_key": "claude-plugins-official/superpowers/5.0.7/skills/brainstorming",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

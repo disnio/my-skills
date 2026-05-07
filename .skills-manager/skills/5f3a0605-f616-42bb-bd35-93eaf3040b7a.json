@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5f3a0605-f616-42bb-bd35-93eaf3040b7a",
+  "path": "gsd-add-tests",
+  "path_key": "gsd-add-tests",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

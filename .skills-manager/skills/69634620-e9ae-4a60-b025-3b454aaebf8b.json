@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "69634620-e9ae-4a60-b025-3b454aaebf8b",
+  "path": "claude-plugins-official/playground/unknown/skills/playground",
+  "path_key": "claude-plugins-official/playground/unknown/skills/playground",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

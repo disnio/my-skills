@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d3284f44-cae2-4dc2-b040-964cb80c6c0c",
+  "path": "claude-plugins-official/chrome-devtools-mcp/c2d8009ff75f/skills/chrome-devtools",
+  "path_key": "claude-plugins-official/chrome-devtools-mcp/c2d8009ff75f/skills/chrome-devtools",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

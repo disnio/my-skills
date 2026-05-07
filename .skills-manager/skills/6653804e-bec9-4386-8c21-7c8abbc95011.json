@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "6653804e-bec9-4386-8c21-7c8abbc95011",
+  "path": "claude-plugins-official/ralph-loop/1.0.0",
+  "path_key": "claude-plugins-official/ralph-loop/1.0.0",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

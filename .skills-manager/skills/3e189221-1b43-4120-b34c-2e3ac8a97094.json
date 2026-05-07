@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3e189221-1b43-4120-b34c-2e3ac8a97094",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/.agents/skills/e2e-testing",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/.agents/skills/e2e-testing",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

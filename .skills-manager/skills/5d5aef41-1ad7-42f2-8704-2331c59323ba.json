@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5d5aef41-1ad7-42f2-8704-2331c59323ba",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/skills/nanoclaw-repl",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/skills/nanoclaw-repl",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

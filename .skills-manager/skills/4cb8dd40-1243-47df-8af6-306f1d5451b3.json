@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "4cb8dd40-1243-47df-8af6-306f1d5451b3",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/skills/investor-materials",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/skills/investor-materials",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

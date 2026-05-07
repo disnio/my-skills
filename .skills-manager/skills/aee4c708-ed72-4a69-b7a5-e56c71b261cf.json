@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "aee4c708-ed72-4a69-b7a5-e56c71b261cf",
+  "path": "claude-plugins-official/superpowers/5.0.7/skills/dispatching-parallel-agents",
+  "path_key": "claude-plugins-official/superpowers/5.0.7/skills/dispatching-parallel-agents",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

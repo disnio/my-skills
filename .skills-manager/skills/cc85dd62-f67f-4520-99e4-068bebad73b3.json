@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "cc85dd62-f67f-4520-99e4-068bebad73b3",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/skills/ai-regression-testing",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/skills/ai-regression-testing",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

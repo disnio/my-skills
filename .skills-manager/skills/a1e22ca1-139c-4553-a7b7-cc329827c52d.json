@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a1e22ca1-139c-4553-a7b7-cc329827c52d",
+  "path": "vue-router-best-practices",
+  "path_key": "vue-router-best-practices",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

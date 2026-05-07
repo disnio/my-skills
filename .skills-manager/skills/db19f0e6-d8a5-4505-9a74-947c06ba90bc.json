@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "db19f0e6-d8a5-4505-9a74-947c06ba90bc",
+  "path": "ssh",
+  "path_key": "ssh",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

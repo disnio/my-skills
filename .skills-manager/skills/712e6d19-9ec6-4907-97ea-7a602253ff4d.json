@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "712e6d19-9ec6-4907-97ea-7a602253ff4d",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/skills/canary-watch",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/skills/canary-watch",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

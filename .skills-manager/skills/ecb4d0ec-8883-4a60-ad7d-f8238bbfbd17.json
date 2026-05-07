@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ecb4d0ec-8883-4a60-ad7d-f8238bbfbd17",
+  "path": "gsd-add-backlog",
+  "path_key": "gsd-add-backlog",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

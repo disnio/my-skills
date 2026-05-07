@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a6023b9c-c7de-473c-a926-4c563dfdfb41",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/skills/springboot-verification",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/skills/springboot-verification",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

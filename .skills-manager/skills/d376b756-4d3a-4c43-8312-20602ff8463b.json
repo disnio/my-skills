@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d376b756-4d3a-4c43-8312-20602ff8463b",
+  "path": "claude-plugins-official/superpowers/5.0.7/skills/requesting-code-review",
+  "path_key": "claude-plugins-official/superpowers/5.0.7/skills/requesting-code-review",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

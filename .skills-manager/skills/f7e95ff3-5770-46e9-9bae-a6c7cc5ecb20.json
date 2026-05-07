@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f7e95ff3-5770-46e9-9bae-a6c7cc5ecb20",
+  "path": "gsd-audit-milestone",
+  "path_key": "gsd-audit-milestone",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

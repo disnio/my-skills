@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3f221fa2-6986-4c89-9626-093bc803f1c7",
+  "path": "gsd-verify-work",
+  "path_key": "gsd-verify-work",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "75f40f40-2180-4749-b8ba-6df4347538c4",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/skills/rules-distill",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/skills/rules-distill",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

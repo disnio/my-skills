@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1052f892-d3e0-47fa-9669-e971e900fec8",
+  "path": "turborepo",
+  "path_key": "turborepo",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

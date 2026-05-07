@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "495d49d0-9d77-4961-a490-9fca5f425320",
+  "path": "claude-plugins-official/typescript-lsp/1.0.0",
+  "path_key": "claude-plugins-official/typescript-lsp/1.0.0",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

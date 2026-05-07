@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5deaa179-2ce7-47dd-821c-f4f73964cab9",
+  "path": "gsd-milestone-summary",
+  "path_key": "gsd-milestone-summary",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

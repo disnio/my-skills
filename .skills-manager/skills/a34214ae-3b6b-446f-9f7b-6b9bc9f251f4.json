@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a34214ae-3b6b-446f-9f7b-6b9bc9f251f4",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/skills/gan-style-harness",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/skills/gan-style-harness",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c8b0fd00-1978-4cf3-b6d8-77cfa9bbc4e3",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/skills/article-writing",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/skills/article-writing",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

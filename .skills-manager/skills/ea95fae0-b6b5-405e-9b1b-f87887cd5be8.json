@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ea95fae0-b6b5-405e-9b1b-f87887cd5be8",
+  "path": "vitest",
+  "path_key": "vitest",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

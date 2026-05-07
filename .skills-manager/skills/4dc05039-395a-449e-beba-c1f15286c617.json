@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "4dc05039-395a-449e-beba-c1f15286c617",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/.agents/skills/fal-ai-media",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/.agents/skills/fal-ai-media",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

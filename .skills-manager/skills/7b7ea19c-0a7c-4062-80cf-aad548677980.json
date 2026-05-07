@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7b7ea19c-0a7c-4062-80cf-aad548677980",
+  "path": "claude-plugins-official/vercel/7807a6aabad5/skills/ai-gateway",
+  "path_key": "claude-plugins-official/vercel/7807a6aabad5/skills/ai-gateway",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

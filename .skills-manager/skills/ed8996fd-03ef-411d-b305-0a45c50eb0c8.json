@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ed8996fd-03ef-411d-b305-0a45c50eb0c8",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/skills/enterprise-agent-ops",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/skills/enterprise-agent-ops",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

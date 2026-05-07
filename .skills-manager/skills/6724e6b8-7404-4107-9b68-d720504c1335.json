@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "6724e6b8-7404-4107-9b68-d720504c1335",
+  "path": "claude-plugins-official/vercel/7807a6aabad5/skills/nextjs",
+  "path_key": "claude-plugins-official/vercel/7807a6aabad5/skills/nextjs",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

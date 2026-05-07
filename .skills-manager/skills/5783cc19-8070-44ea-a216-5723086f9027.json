@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5783cc19-8070-44ea-a216-5723086f9027",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/skills/rust-patterns",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/skills/rust-patterns",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

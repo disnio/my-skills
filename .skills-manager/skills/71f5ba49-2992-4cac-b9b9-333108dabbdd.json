@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "71f5ba49-2992-4cac-b9b9-333108dabbdd",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/.cursor/skills/market-research",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/.cursor/skills/market-research",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

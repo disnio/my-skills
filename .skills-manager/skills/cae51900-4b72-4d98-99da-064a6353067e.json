@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "cae51900-4b72-4d98-99da-064a6353067e",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/.cursor/skills/frontend-slides",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/.cursor/skills/frontend-slides",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

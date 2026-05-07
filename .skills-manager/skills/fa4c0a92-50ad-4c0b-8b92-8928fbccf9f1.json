@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "fa4c0a92-50ad-4c0b-8b92-8928fbccf9f1",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/skills/healthcare-phi-compliance",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/skills/healthcare-phi-compliance",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

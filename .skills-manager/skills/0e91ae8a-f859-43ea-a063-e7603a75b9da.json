@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0e91ae8a-f859-43ea-a063-e7603a75b9da",
+  "path": "temp_git_1775029237325_28jx2p",
+  "path_key": "temp_git_1775029237325_28jx2p",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

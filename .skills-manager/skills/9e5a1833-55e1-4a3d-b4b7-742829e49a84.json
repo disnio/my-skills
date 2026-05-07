@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9e5a1833-55e1-4a3d-b4b7-742829e49a84",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/docs/ja-JP/plugins",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/docs/ja-jp/plugins",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

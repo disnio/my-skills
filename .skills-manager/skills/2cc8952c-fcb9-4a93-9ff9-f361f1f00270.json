@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2cc8952c-fcb9-4a93-9ff9-f361f1f00270",
+  "path": "temp_git_1775112144812_lrfo6h/tests/claude-code",
+  "path_key": "temp_git_1775112144812_lrfo6h/tests/claude-code",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "dc411689-e8cd-479e-b5c6-5ed56f2bacb7",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/skills/continuous-agent-loop",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/skills/continuous-agent-loop",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "349c050f-bc64-4d45-ba63-72eb53e9adc3",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/skills/python-testing",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/skills/python-testing",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

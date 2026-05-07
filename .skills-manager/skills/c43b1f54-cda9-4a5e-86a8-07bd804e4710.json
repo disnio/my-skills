@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c43b1f54-cda9-4a5e-86a8-07bd804e4710",
+  "path": "gsd-research-phase",
+  "path_key": "gsd-research-phase",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

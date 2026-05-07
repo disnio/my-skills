@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9275972a-b3b2-49bf-aa5c-c27b3049f8d4",
+  "path": "claude-plugins-official/vercel/7807a6aabad5/skills/vercel-storage",
+  "path_key": "claude-plugins-official/vercel/7807a6aabad5/skills/vercel-storage",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

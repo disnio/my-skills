@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "099aab22-2ab5-4cc9-86be-e4dff92f709a",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/skills/swift-actor-persistence",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/skills/swift-actor-persistence",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

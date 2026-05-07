@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "21780f17-1b3d-4786-8af1-d5e04759cde3",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/skills/bun-runtime",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/skills/bun-runtime",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

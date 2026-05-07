@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ba0ff243-81c7-43e8-976a-7944e32ae322",
+  "path": "claude-plugins-official/superpowers/5.0.7/skills/subagent-driven-development",
+  "path_key": "claude-plugins-official/superpowers/5.0.7/skills/subagent-driven-development",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

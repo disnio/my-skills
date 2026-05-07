@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c3304042-6a7a-456f-a28f-1ac47639053d",
+  "path": "temp_git_1775112144812_lrfo6h/skills/systematic-debugging",
+  "path_key": "temp_git_1775112144812_lrfo6h/skills/systematic-debugging",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

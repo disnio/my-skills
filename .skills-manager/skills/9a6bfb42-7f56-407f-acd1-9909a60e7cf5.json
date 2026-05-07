@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9a6bfb42-7f56-407f-acd1-9909a60e7cf5",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/.agents/skills/frontend-patterns",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/.agents/skills/frontend-patterns",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "8c5df2d7-3198-434f-b9a0-50c17f86fbd1",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/.kiro/skills/e2e-testing",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/.kiro/skills/e2e-testing",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

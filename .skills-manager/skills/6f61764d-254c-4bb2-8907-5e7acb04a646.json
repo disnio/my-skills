@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "6f61764d-254c-4bb2-8907-5e7acb04a646",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/.agents/skills/tdd-workflow",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/.agents/skills/tdd-workflow",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

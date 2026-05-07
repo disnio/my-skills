@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b5c8cd16-ae9a-46a0-845f-1aa90e1bff2b",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/skills/click-path-audit",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/skills/click-path-audit",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

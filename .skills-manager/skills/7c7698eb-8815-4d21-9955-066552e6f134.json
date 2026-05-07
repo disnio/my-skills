@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7c7698eb-8815-4d21-9955-066552e6f134",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/skills/springboot-patterns",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/skills/springboot-patterns",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "40fde3e4-d8e4-4951-9c04-8579fb9516d7",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/.kiro/skills/coding-standards",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/.kiro/skills/coding-standards",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f273c127-71b2-41e0-b6f3-113cd40d6454",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/skills/nuxt4-patterns",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/skills/nuxt4-patterns",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

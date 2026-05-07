@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "585bef1c-554c-491e-b412-05e549f0d91b",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/skills/python-patterns",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/skills/python-patterns",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "47d7a0e5-67ea-487f-a811-8aba960282ab",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/skills/logistics-exception-management",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/skills/logistics-exception-management",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

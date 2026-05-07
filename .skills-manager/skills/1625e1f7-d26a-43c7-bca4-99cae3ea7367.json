@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1625e1f7-d26a-43c7-bca4-99cae3ea7367",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/skills/deep-research",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/skills/deep-research",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

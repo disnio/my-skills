@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f08d1084-b453-4cf6-9e8a-7123d42639eb",
+  "path": "gsd-intel",
+  "path_key": "gsd-intel",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

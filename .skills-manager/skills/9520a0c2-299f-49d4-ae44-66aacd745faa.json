@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9520a0c2-299f-49d4-ae44-66aacd745faa",
+  "path": "gsd-code-review-fix",
+  "path_key": "gsd-code-review-fix",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

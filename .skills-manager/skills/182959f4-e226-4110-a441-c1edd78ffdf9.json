@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "182959f4-e226-4110-a441-c1edd78ffdf9",
+  "path": "temp_git_1775112144812_lrfo6h/skills/verification-before-completion",
+  "path_key": "temp_git_1775112144812_lrfo6h/skills/verification-before-completion",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

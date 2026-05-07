@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "dba32e9f-fb76-4d49-ad78-3a2e2a07d25c",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/.kiro/skills/database-migrations",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/.kiro/skills/database-migrations",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

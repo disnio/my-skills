@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "6f8f78d2-501b-463f-84a2-6af167e07361",
+  "path": "claude-plugins-official/vercel/7807a6aabad5/skills/chat-sdk",
+  "path_key": "claude-plugins-official/vercel/7807a6aabad5/skills/chat-sdk",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

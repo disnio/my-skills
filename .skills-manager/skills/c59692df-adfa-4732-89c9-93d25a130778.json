@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c59692df-adfa-4732-89c9-93d25a130778",
+  "path": "gsd-list-phase-assumptions",
+  "path_key": "gsd-list-phase-assumptions",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

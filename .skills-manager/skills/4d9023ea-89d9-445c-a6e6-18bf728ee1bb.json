@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "4d9023ea-89d9-445c-a6e6-18bf728ee1bb",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/.kiro/skills/golang-patterns",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/.kiro/skills/golang-patterns",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

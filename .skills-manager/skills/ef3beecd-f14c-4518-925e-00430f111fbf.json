@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ef3beecd-f14c-4518-925e-00430f111fbf",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/skills/search-first",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/skills/search-first",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ed00cac3-25a4-4f19-b9e8-00b123d70002",
+  "path": "claude-plugins-official/superpowers/5.0.7/skills/finishing-a-development-branch",
+  "path_key": "claude-plugins-official/superpowers/5.0.7/skills/finishing-a-development-branch",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

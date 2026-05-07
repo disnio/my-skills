@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1cad850e-7b2a-4784-a06f-3cbed978d3c5",
+  "path": "claude-plugins-official/vercel/7807a6aabad5/skills/routing-middleware",
+  "path_key": "claude-plugins-official/vercel/7807a6aabad5/skills/routing-middleware",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

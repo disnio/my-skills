@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "8c9d63a7-a7f0-4a5f-8589-522e870eb80f",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/.kiro/skills/backend-patterns",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/.kiro/skills/backend-patterns",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

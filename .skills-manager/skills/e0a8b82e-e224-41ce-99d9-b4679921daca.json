@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e0a8b82e-e224-41ce-99d9-b4679921daca",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/skills/repo-scan",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/skills/repo-scan",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

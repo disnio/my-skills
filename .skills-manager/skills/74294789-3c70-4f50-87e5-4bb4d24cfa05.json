@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "74294789-3c70-4f50-87e5-4bb4d24cfa05",
+  "path": "gsd-quick",
+  "path_key": "gsd-quick",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

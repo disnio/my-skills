@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "8070d393-a2f0-40f5-a918-add3f4edd6de",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/skills/laravel-verification",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/skills/laravel-verification",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

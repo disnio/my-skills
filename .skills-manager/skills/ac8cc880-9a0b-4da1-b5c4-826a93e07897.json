@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ac8cc880-9a0b-4da1-b5c4-826a93e07897",
+  "path": "claude-plugins-official/claude-code-setup/1.0.0",
+  "path_key": "claude-plugins-official/claude-code-setup/1.0.0",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "95c7d85e-24d2-4c59-a8d8-13e88597571a",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/skills/dmux-workflows",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/skills/dmux-workflows",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7e825fe9-45fd-41ec-bcaf-e7397642c2d1",
+  "path": "vueuse-functions",
+  "path_key": "vueuse-functions",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "973742c2-d809-4806-8938-a67584cd649b",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/skills/kotlin-testing",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/skills/kotlin-testing",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

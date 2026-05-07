@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d8db5476-4c8d-44c6-b6bf-7973b5147eda",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/skills/perl-security",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/skills/perl-security",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

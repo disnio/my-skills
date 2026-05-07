@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a2b2c1e4-05b5-43a0-9cab-b6ce2eec66d4",
+  "path": "claude-plugins-official/commit-commands/unknown",
+  "path_key": "claude-plugins-official/commit-commands/unknown",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

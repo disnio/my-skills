@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "6f70d212-8476-40a4-ace9-5a6da3864de9",
+  "path": "claude-plugins-official/superpowers/5.0.7/skills/test-driven-development",
+  "path_key": "claude-plugins-official/superpowers/5.0.7/skills/test-driven-development",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

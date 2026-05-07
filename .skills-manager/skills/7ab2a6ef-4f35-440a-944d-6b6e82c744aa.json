@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7ab2a6ef-4f35-440a-944d-6b6e82c744aa",
+  "path": "gsd-manager",
+  "path_key": "gsd-manager",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

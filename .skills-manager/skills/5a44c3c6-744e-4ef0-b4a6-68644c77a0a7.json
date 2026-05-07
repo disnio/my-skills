@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5a44c3c6-744e-4ef0-b4a6-68644c77a0a7",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/.cursor/skills/investor-outreach",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/.cursor/skills/investor-outreach",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

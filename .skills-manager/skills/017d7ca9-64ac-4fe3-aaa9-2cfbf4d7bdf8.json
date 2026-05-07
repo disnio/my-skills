@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "017d7ca9-64ac-4fe3-aaa9-2cfbf4d7bdf8",
+  "path": "gsd-join-discord",
+  "path_key": "gsd-join-discord",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

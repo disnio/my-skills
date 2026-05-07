@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "8e487cd5-6257-4524-9d84-e9c767682214",
+  "path": "claude-plugins-official/vercel/7807a6aabad5/skills/marketplace",
+  "path_key": "claude-plugins-official/vercel/7807a6aabad5/skills/marketplace",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ceb02d15-1dd9-4ca4-b46a-87a086537356",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/skills/swiftui-patterns",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/skills/swiftui-patterns",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

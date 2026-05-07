@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d90e17c2-c1bb-46ee-8ca3-fd1e3565625e",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/skills/mcp-server-patterns",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/skills/mcp-server-patterns",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

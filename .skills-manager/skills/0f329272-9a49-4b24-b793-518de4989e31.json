@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0f329272-9a49-4b24-b793-518de4989e31",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/skills/hexagonal-architecture",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/skills/hexagonal-architecture",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

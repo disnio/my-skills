@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2a57070b-ffee-4998-bad5-bc83f43ac501",
+  "path": "gsd-plant-seed",
+  "path_key": "gsd-plant-seed",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

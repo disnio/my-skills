@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "af34e86c-3b10-4fba-aa5c-720f3614ef90",
+  "path": "claude-plugins-official/vercel/7807a6aabad5/skills/turbopack",
+  "path_key": "claude-plugins-official/vercel/7807a6aabad5/skills/turbopack",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

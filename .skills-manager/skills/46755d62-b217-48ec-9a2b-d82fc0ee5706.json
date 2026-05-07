@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "46755d62-b217-48ec-9a2b-d82fc0ee5706",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/skills/production-scheduling",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/skills/production-scheduling",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

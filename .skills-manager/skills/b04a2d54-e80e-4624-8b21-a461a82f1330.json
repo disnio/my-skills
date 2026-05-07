@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b04a2d54-e80e-4624-8b21-a461a82f1330",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/.kiro/skills/frontend-patterns",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/.kiro/skills/frontend-patterns",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

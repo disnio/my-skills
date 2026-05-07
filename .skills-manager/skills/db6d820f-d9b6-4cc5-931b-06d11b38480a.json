@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "db6d820f-d9b6-4cc5-931b-06d11b38480a",
+  "path": "gsd-audit-fix",
+  "path_key": "gsd-audit-fix",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

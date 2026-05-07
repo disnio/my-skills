@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "82d7947a-bd86-4ae3-a3f5-a43ac7903585",
+  "path": "gsd-pr-branch",
+  "path_key": "gsd-pr-branch",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

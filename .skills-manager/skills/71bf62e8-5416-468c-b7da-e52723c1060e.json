@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "71bf62e8-5416-468c-b7da-e52723c1060e",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/skills/kotlin-coroutines-flows",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/skills/kotlin-coroutines-flows",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

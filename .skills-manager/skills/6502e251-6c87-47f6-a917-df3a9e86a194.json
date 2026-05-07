@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "6502e251-6c87-47f6-a917-df3a9e86a194",
+  "path": "claude-plugins-official/vercel/7807a6aabad5/skills/bootstrap",
+  "path_key": "claude-plugins-official/vercel/7807a6aabad5/skills/bootstrap",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

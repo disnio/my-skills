@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ed5a3683-6fba-4201-a54c-cd4fd49d791d",
+  "path": "gsd-profile-user",
+  "path_key": "gsd-profile-user",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

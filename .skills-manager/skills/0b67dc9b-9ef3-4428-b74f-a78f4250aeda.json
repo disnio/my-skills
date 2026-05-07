@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0b67dc9b-9ef3-4428-b74f-a78f4250aeda",
+  "path": "claude-plugins-official/vercel/7807a6aabad5/skills/vercel-cli/upstream",
+  "path_key": "claude-plugins-official/vercel/7807a6aabad5/skills/vercel-cli/upstream",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

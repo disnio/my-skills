@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "05fdc52a-d86c-4d40-af0f-d1b2ea4ce8e3",
+  "path": "gsd-add-todo",
+  "path_key": "gsd-add-todo",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "82205aaa-7f1d-40de-a0ff-8e9a49327076",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/skills/video-editing",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/skills/video-editing",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

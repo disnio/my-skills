@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a7f0be65-d49a-4ae2-8dfc-6ae2c96e5174",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/skills/healthcare-emr-patterns",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/skills/healthcare-emr-patterns",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

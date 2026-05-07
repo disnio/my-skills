@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "51a95ea3-70a2-44d0-b358-37472db23d73",
+  "path": "nuxt",
+  "path_key": "nuxt",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

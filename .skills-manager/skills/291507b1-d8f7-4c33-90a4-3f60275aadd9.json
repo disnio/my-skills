@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "291507b1-d8f7-4c33-90a4-3f60275aadd9",
+  "path": "claude-plugins-official/vercel/7807a6aabad5/skills/react-best-practices/upstream",
+  "path_key": "claude-plugins-official/vercel/7807a6aabad5/skills/react-best-practices/upstream",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

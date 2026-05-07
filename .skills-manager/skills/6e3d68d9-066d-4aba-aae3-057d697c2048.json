@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "6e3d68d9-066d-4aba-aae3-057d697c2048",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/skills/cpp-testing",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/skills/cpp-testing",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

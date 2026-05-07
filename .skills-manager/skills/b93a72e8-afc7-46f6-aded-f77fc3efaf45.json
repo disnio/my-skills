@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b93a72e8-afc7-46f6-aded-f77fc3efaf45",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/skills/agent-payment-x402",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/skills/agent-payment-x402",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

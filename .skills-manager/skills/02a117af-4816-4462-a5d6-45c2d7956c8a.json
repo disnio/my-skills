@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "02a117af-4816-4462-a5d6-45c2d7956c8a",
+  "path": "tsdown",
+  "path_key": "tsdown",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

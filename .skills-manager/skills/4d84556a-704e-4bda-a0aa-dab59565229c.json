@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "4d84556a-704e-4bda-a0aa-dab59565229c",
+  "path": "gsd-thread",
+  "path_key": "gsd-thread",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

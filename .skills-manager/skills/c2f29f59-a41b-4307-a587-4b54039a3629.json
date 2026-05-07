@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c2f29f59-a41b-4307-a587-4b54039a3629",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/.agents/skills/strategic-compact",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/.agents/skills/strategic-compact",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f5bcf588-5bae-4d12-8b62-9931f3914392",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/skills/autonomous-agent-harness",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/skills/autonomous-agent-harness",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

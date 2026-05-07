@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "aada4b79-e474-4bcb-b681-e701705f1857",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/skills/backend-patterns",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/skills/backend-patterns",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "79b14a07-aacd-4162-94b2-00c650dd9488",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/.agents/skills/security-review",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/.agents/skills/security-review",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "6723ece0-cf66-427e-bdf0-f079075d7fb6",
+  "path": "frontend-ui-engineering",
+  "path_key": "frontend-ui-engineering",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "addyosmani/agent-skills/frontend-ui-engineering",
+    "subpath": "skills\\frontend-ui-engineering",
+    "branch": null
+  }
+}

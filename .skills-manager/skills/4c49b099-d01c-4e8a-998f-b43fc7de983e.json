@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "4c49b099-d01c-4e8a-998f-b43fc7de983e",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/skills/laravel-patterns",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/skills/laravel-patterns",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

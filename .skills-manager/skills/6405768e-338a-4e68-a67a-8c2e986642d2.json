@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "6405768e-338a-4e68-a67a-8c2e986642d2",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/skills/remotion-video-creation",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/skills/remotion-video-creation",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

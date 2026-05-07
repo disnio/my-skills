@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "24c6a3d5-76da-48f2-8c35-b6f1f8e31f51",
+  "path": "overdrive",
+  "path_key": "overdrive",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

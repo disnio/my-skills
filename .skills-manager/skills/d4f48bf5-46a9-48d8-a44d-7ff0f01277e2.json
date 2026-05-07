@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d4f48bf5-46a9-48d8-a44d-7ff0f01277e2",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/skills/openclaw-persona-forge",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/skills/openclaw-persona-forge",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

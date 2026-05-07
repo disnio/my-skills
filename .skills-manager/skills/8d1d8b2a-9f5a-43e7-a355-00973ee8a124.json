@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "8d1d8b2a-9f5a-43e7-a355-00973ee8a124",
+  "path": "gsd-secure-phase",
+  "path_key": "gsd-secure-phase",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

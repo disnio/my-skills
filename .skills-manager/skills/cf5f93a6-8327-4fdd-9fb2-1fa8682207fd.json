@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "cf5f93a6-8327-4fdd-9fb2-1fa8682207fd",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/skills/pytorch-patterns",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/skills/pytorch-patterns",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

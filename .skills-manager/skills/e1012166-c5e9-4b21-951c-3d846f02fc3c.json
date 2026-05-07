@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e1012166-c5e9-4b21-951c-3d846f02fc3c",
+  "path": "antfu",
+  "path_key": "antfu",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

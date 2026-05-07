@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "86605191-ede9-4b97-a48d-cc17179fc9c3",
+  "path": "claude-plugins-official/code-review/b091cb4179d3",
+  "path_key": "claude-plugins-official/code-review/b091cb4179d3",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

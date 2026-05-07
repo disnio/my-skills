@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "585b4e93-f2b8-4548-b8f9-246c6e79f2c3",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/skills/santa-method",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/skills/santa-method",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

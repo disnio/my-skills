@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "db890b31-b867-49d1-9f0a-16d2b652b0e5",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/skills/ai-first-engineering",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/skills/ai-first-engineering",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d9d82c4f-d1ae-489d-a9a3-6a66a5f0608f",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/skills/springboot-tdd",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/skills/springboot-tdd",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

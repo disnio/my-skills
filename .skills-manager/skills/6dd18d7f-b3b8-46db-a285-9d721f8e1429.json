@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "6dd18d7f-b3b8-46db-a285-9d721f8e1429",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/.kiro/skills/python-patterns",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/.kiro/skills/python-patterns",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

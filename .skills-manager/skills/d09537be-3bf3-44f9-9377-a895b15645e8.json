@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d09537be-3bf3-44f9-9377-a895b15645e8",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/skills/django-patterns",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/skills/django-patterns",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

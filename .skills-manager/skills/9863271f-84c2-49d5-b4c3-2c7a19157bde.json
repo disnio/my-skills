@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9863271f-84c2-49d5-b4c3-2c7a19157bde",
+  "path": "gsd-audit-uat",
+  "path_key": "gsd-audit-uat",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

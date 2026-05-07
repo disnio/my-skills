@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "279c2945-830d-44c4-8f97-7b38f08a77e8",
+  "path": "claude-plugins-official/superpowers/5.0.7/skills/using-superpowers",
+  "path_key": "claude-plugins-official/superpowers/5.0.7/skills/using-superpowers",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

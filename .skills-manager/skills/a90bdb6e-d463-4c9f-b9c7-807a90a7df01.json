@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a90bdb6e-d463-4c9f-b9c7-807a90a7df01",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/skills/laravel-tdd",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/skills/laravel-tdd",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

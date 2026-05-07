@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "aa8b8548-cf81-4a5e-b4dc-d2e1ba594a13",
+  "path": "claude-plugins-official/superpowers/5.0.7/tests/claude-code",
+  "path_key": "claude-plugins-official/superpowers/5.0.7/tests/claude-code",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

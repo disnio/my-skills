@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "98f0dc9d-53a5-4655-b12d-d26dd84bff13",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/.kiro/skills/search-first",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/.kiro/skills/search-first",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

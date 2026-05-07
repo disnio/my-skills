@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3afc623c-f8d7-4b64-a97d-72a8c8415922",
+  "path": "gsd-review-backlog",
+  "path_key": "gsd-review-backlog",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

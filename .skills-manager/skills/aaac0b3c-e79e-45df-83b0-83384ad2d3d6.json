@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "aaac0b3c-e79e-45df-83b0-83384ad2d3d6",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/.kiro/skills/security-review",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/.kiro/skills/security-review",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

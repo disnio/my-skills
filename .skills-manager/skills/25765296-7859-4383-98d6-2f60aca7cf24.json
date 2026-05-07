@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "25765296-7859-4383-98d6-2f60aca7cf24",
+  "path": "web-artifacts-builder",
+  "path_key": "web-artifacts-builder",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

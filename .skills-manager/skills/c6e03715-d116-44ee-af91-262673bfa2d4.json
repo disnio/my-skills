@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c6e03715-d116-44ee-af91-262673bfa2d4",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/.agents/skills/crosspost",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/.agents/skills/crosspost",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

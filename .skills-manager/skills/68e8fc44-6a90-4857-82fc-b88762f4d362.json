@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "68e8fc44-6a90-4857-82fc-b88762f4d362",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/skills/deployment-patterns",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/skills/deployment-patterns",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "fe447101-7ca5-4045-8896-ee54c6d78a5a",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/skills/customs-trade-compliance",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/skills/customs-trade-compliance",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

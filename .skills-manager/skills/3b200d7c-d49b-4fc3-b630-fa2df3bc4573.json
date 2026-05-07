@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3b200d7c-d49b-4fc3-b630-fa2df3bc4573",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/.agents/skills/claude-api",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/.agents/skills/claude-api",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

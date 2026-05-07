@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "69492bfa-6576-4abd-bb70-ae8a86480c62",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/.agents/skills/documentation-lookup",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/.agents/skills/documentation-lookup",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

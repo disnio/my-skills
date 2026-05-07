@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "140b647c-e380-463c-8148-af1974f8f205",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/.codex-plugin",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/.codex-plugin",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

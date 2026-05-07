@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "512b3f57-0ab0-4095-b103-1bcfb04a016b",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/skills/carrier-relationship-management",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/skills/carrier-relationship-management",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b676bb46-2d11-4e32-bf6a-51068a1f29fb",
+  "path": "temp_git_1775112144812_lrfo6h/skills/writing-plans",
+  "path_key": "temp_git_1775112144812_lrfo6h/skills/writing-plans",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

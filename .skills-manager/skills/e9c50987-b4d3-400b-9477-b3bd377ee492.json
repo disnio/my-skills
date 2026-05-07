@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e9c50987-b4d3-400b-9477-b3bd377ee492",
+  "path": "gsd-note",
+  "path_key": "gsd-note",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

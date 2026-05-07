@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c0b08314-1de3-4a0d-9d6c-49fda7df906b",
+  "path": "temp_git_1775112144812_lrfo6h/skills/receiving-code-review",
+  "path_key": "temp_git_1775112144812_lrfo6h/skills/receiving-code-review",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2e76ac43-f902-4b80-bc2a-ebbce098929b",
+  "path": "claude-plugins-official/vercel/7807a6aabad5/skills/shadcn",
+  "path_key": "claude-plugins-official/vercel/7807a6aabad5/skills/shadcn",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

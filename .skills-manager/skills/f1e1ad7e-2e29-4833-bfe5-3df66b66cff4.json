@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f1e1ad7e-2e29-4833-bfe5-3df66b66cff4",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/.kiro/skills/agentic-engineering",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/.kiro/skills/agentic-engineering",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

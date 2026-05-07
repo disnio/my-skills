@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1be6625e-ea2e-419e-a856-4880ace41016",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/skills/django-security",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/skills/django-security",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

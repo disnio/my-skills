@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "34d756be-bb81-4255-9411-8f9c9a284168",
+  "path": "gsd-debug",
+  "path_key": "gsd-debug",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

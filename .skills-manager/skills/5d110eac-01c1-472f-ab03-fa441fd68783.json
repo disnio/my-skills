@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5d110eac-01c1-472f-ab03-fa441fd68783",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/docs/zh-CN",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/docs/zh-cn",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

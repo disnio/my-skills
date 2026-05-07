@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "fccef3bc-6b70-46f7-8955-49c9c41b9d77",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/skills/data-scraper-agent",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/skills/data-scraper-agent",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

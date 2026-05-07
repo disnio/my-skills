@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5640750b-fdcb-460a-a684-91f7d1c8f9de",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/skills/product-lens",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/skills/product-lens",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

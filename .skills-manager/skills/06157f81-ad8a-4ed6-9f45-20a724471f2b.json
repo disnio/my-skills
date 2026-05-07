@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "06157f81-ad8a-4ed6-9f45-20a724471f2b",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/skills/team-builder",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/skills/team-builder",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

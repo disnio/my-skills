@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d4288411-80b8-4ea5-b6bc-954ac92268f9",
+  "path": "claude-plugins-official/vercel/7807a6aabad5/skills/next-cache-components",
+  "path_key": "claude-plugins-official/vercel/7807a6aabad5/skills/next-cache-components",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

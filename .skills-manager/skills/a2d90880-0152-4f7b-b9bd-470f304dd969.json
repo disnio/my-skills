@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a2d90880-0152-4f7b-b9bd-470f304dd969",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/skills/kotlin-ktor-patterns",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/skills/kotlin-ktor-patterns",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

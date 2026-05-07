@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d1c207f8-43df-4d44-b540-b5ccf2026171",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/.kiro/skills/postgres-patterns",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/.kiro/skills/postgres-patterns",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2f61aa11-f84c-4d5d-9e4d-3f06fc505870",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/skills/videodb",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/skills/videodb",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

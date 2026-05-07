@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "af1513a8-5a6f-45f5-9f75-f1554eff00fc",
+  "path": "adapt",
+  "path_key": "adapt",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

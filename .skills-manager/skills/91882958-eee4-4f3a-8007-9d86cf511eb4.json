@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "91882958-eee4-4f3a-8007-9d86cf511eb4",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/.agents/skills/api-design",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/.agents/skills/api-design",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

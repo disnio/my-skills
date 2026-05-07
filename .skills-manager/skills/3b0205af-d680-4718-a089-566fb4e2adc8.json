@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3b0205af-d680-4718-a089-566fb4e2adc8",
+  "path": "claude-plugins-official/superpowers/5.0.7/skills/using-git-worktrees",
+  "path_key": "claude-plugins-official/superpowers/5.0.7/skills/using-git-worktrees",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

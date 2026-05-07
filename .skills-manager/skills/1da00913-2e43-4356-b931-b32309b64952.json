@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1da00913-2e43-4356-b931-b32309b64952",
+  "path": "claude-plugins-official/gopls-lsp/1.0.0",
+  "path_key": "claude-plugins-official/gopls-lsp/1.0.0",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

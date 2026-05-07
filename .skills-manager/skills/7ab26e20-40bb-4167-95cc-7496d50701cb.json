@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7ab26e20-40bb-4167-95cc-7496d50701cb",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/skills/agentic-engineering",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/skills/agentic-engineering",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

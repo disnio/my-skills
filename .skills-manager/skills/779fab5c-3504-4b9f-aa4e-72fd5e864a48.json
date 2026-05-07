@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "779fab5c-3504-4b9f-aa4e-72fd5e864a48",
+  "path": "claude-plugins-official/frontend-design/b091cb4179d3",
+  "path_key": "claude-plugins-official/frontend-design/b091cb4179d3",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

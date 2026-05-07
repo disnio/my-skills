@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "6807302f-d719-4ae5-987b-9ad622e5f741",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/skills/kotlin-patterns",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/skills/kotlin-patterns",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

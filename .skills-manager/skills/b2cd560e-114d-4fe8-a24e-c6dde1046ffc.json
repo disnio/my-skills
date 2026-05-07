@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b2cd560e-114d-4fe8-a24e-c6dde1046ffc",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/.cursor/skills/nextjs-turbopack",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/.cursor/skills/nextjs-turbopack",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

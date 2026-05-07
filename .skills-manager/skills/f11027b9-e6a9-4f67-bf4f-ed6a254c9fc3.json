@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f11027b9-e6a9-4f67-bf4f-ed6a254c9fc3",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/skills/android-clean-architecture",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/skills/android-clean-architecture",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

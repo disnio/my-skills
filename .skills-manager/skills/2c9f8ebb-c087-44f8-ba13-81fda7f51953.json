@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2c9f8ebb-c087-44f8-ba13-81fda7f51953",
+  "path": "everything-claude-code/everything-claude-code/1.9.0/skills/lead-intelligence",
+  "path_key": "everything-claude-code/everything-claude-code/1.9.0/skills/lead-intelligence",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

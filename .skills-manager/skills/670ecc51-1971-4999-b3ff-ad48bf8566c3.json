@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "670ecc51-1971-4999-b3ff-ad48bf8566c3",
+  "path": "claude-plugins-official/vercel/7807a6aabad5/.claude/skills/benchmark-agents",
+  "path_key": "claude-plugins-official/vercel/7807a6aabad5/.claude/skills/benchmark-agents",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

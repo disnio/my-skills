@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7569193b-7b85-404f-a83a-a207244fa37b",
+  "path": "claude-plugins-official/vercel/7807a6aabad5/skills/env-vars",
+  "path_key": "claude-plugins-official/vercel/7807a6aabad5/skills/env-vars",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

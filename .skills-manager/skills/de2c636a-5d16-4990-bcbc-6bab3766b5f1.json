@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "de2c636a-5d16-4990-bcbc-6bab3766b5f1",
+  "path": "temp_git_1775112144812_lrfo6h/skills/subagent-driven-development",
+  "path_key": "temp_git_1775112144812_lrfo6h/skills/subagent-driven-development",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}
